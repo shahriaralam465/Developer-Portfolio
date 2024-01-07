@@ -74,7 +74,7 @@ nav a{
      margin-bottom: 15px;
 }
 .banner-description{
-     margin-bottom: 15px;
+     margin-bottom: 20px;
 }
 .banner .profile-pic{
      width: 500px;
@@ -186,4 +186,12 @@ main section{
 .download-cv{
      text-align: center;
      margin-top: 50px;
+     margin-bottom: 100px;
+
+}
+/* Footer style */
+footer{
+     display: flex;
+     background-color:#FFF8F3;
+     padding: 130px 230px;
 }
