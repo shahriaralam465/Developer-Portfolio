@@ -59,7 +59,7 @@ nav a{
      justify-content: space-between;
 }
 .banner-content{
-     max-width: 500px;
+     max-width:800px;
 }
 .banner-greeting{
      font-size: 45px;
@@ -136,7 +136,7 @@ main section{
      padding:30px;
      background: #FFF;
      border-radius: 5px;
-     box-shadow: 0px 0px 50px 0px #47474760;
+     box-shadow: 0px 0px 30px -10px #4747474e;
      justify-content: space-around;
      width: 267px;
      height: 300px;}
@@ -146,8 +146,14 @@ main section{
      color: #181818;
 }
 .skill-description{
-     font-size: 18px;
-    
-
+     font-size: 16px;
+     font-weight: 400;
+}
+/* Resume Section styles */
+.resume-column-title{
+     color: #181818;
+     font-size: 30px;
+     font-weight: 700;
+     
 }
 
